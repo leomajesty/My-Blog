@@ -70,7 +70,7 @@ public final class Commons {
      * @return
      */
     public static String site_option(String key) {
-        return site_option(key, "");
+        return site_option(key, "/blog");
     }
 
     /**
